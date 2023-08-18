@@ -1,4 +1,4 @@
 # AI_Skills
 record general AI tricks
 
-1. [BatchNormalization](https://www.zhihu.com/question/28702863)
+1. [BatchNormalization](https://github.com/DishengLL/AI_Skills/blob/main/BN.md)
